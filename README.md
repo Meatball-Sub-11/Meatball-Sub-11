@@ -1,5 +1,7 @@
 ### Hi there! 👋 I'm Owen
 
+![visitors](https://vbr.nathanchung.dev/badge?page_id=Meatball-Sub-11.Meatball-Sub-11&color=00cf00)
+
 I'm a **Software Engineer** from the UK with a genuine passion for building things that work well on the web. My focus often gravitates towards crafting efficient and robust backend systems, but I'm equally excited by modern web technologies. Right now, I'm really enjoying diving deep into **Rust** and **Axum**, pushing the boundaries of what's possible with high-performance solutions. My background in complex problem-solving from my Physics degree consistently drives my approach to developing scalable and efficient software.
 
 ---
