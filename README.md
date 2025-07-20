@@ -2,13 +2,7 @@
 
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=Meatball-Sub-11.Meatball-Sub-11&color=00cf00)
 
-I'm a **Software Engineer** from the UK with a genuine passion for building things that work well on the web. My focus often gravitates towards crafting efficient and robust backend systems, but I'm equally excited by modern web technologies. Right now, I'm really enjoying diving deep into **Rust** and **Axum**, pushing the boundaries of what's possible with high-performance solutions. My background in complex problem-solving from my Physics degree consistently drives my approach to developing scalable and efficient software.
-
----
-
-### 💻 What's on My Workbench Right Now
-
-* **Deltabox Store**: This is my big project at the moment – an ambitious e-commerce platform that I'm building from the ground up with the aim of launching it as a business. It's a fantastic journey exploring a performant backend in **Rust (Axum)** and a dynamic frontend powered by **Vite**. It's all about pushing the limits of modern web development and honing my full-stack capabilities through a real-world venture.
+I'm a **Software Engineer** from the UK with a passion for building things that work well on the web. My focus often gravitates towards crafting efficient and robust backend systems, but I'm equally excited by modern web technologies. Right now, I'm really enjoying diving deep into **Rust** and **Axum**, pushing the boundaries of what's possible with high-performance solutions. My background in complex problem-solving from my Physics degree consistently drives my approach to developing scalable and efficient software.
 
 ---
 
@@ -22,6 +16,12 @@ I love getting hands-on with a variety of technologies. Here's what I'm comforta
 * **Data Stores**: PostgreSQL, SQLite
 * **Data Analysis & Scientific**: Pandas, NumPy, SciPy, Matplotlib
 * **Dev Essentials**: VS Code, Git, GitHub, CI/CD (GitHub Actions), PyCharm, WSL2, Docker, Jira, crafting great RESTful APIs, and asynchronous programming.
+
+---
+
+### 💻 What's on My Workbench Right Now
+
+* **Deltabox Store**: This is my big project at the moment – an ambitious e-commerce platform that I'm building from the ground up with the aim of launching it as a business. It's a fantastic journey exploring a performant backend in **Rust (Axum)** and a dynamic frontend powered by **Vite**. It's all about pushing the limits of modern web development and honing my full-stack capabilities through a real-world venture.
 
 ---
 
