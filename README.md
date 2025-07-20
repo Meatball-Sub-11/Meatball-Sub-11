@@ -50,9 +50,10 @@ I love getting hands-on with a variety of technologies. Here's what I'm comforta
 ![Git](https://img.shields.io/badge/-Git-000?logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-000?logo=githubactions)
+![Jira](https://img.shields.io/badge/-Jira-000?logo=jira&logoColor=0052CC)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-000?logo=bitbucket&logoColor=0052CC)
 ![WSL2](https://img.shields.io/badge/-WSL2-000?style=flat)
 ![Docker](https://img.shields.io/badge/-Docker-000?logo=docker&logoColor=2496ED)
-![Jira](https://img.shields.io/badge/-Jira-000?logo=jira&logoColor=0052CC)
 ![RESTful APIs](https://img.shields.io/badge/-RESTful%20APIs-000?style=flat)
 
 ---
