@@ -32,7 +32,7 @@ I love getting hands-on with a variety of technologies. Here's what I'm comforta
 ![Vite](https://img.shields.io/badge/-Vite-000?logo=vite&logoColor=646CFF)
 ![React](https://img.shields.io/badge/-React-000?logo=react&logoColor=61DAFB)
 
-**Data Stores**: PostgreSQL, SQLite
+**Data Stores**:
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?logo=postgresql&logoColor=4169E1)
 
