@@ -12,12 +12,48 @@ Right now, I'm really enjoying diving deep into **Rust** and **Axum**, pushing t
 
 I love getting hands-on with a variety of technologies. Here's what I'm comfortable with:
 
-* **Languages**: Python, Rust, JavaScript, TypeScript, R
-* **Web Frameworks**: Axum, Flask
-* **Frontend Magic**: Vite, React
-* **Data Stores**: PostgreSQL, SQLite
-* **Data Analysis & Scientific**: Pandas, NumPy, SciPy, Matplotlib
-* **Dev Essentials**: VS Code, Git, GitHub, CI/CD (GitHub Actions), PyCharm, WSL2, Docker, Jira, crafting great RESTful APIs, and asynchronous programming.
+**Languages**: 
+
+![Python](https://img.shields.io/badge/-Python-000?logo=python&logoColor=3776AB)
+![Rust](https://img.shields.io/badge/-Rust-000?logo=rust&logoColor=DEA584)
+![R](https://img.shields.io/badge/-R-000?logo=r&logoColor=276DC3)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?logo=javascript&logoColor=F7DF1E)
+![HTML](https://img.shields.io/badge/-HTML-000?logo=html5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/-CSS-000?logo=CSS&logoColor=1572B6)
+
+**Web Frameworks**:
+
+![Axum](https://img.shields.io/badge/-Axum-000?style=flat)
+![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask) 
+
+**Frontend Magic**:
+
+![Vite](https://img.shields.io/badge/-Vite-000?logo=vite&logoColor=646CFF)
+![React](https://img.shields.io/badge/-React-000?logo=react&logoColor=61DAFB)
+
+**Data Stores**: PostgreSQL, SQLite
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?logo=postgresql&logoColor=4169E1)
+
+**Data Analysis & Scientific**:
+
+![Pandas](https://img.shields.io/badge/-Pandas-000?logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-000?logo=numpy)
+![SciPy](https://img.shields.io/badge/-SciPy-000?logo=scipy)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-000?logo=matplotlib)
+
+**Dev Essentials**:
+
+![VS Code](https://img.shields.io/badge/-VS%20Code-000?logo=visualstudiocode&logoColor=007ACC)
+![PyCharm](https://img.shields.io/badge/-PyCharm-000?logo=pycharm&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-000?logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-000?logo=githubactions)
+![WSL2](https://img.shields.io/badge/-WSL2-000?style=flat)
+![Docker](https://img.shields.io/badge/-Docker-000?logo=docker&logoColor=2496ED)
+![Jira](https://img.shields.io/badge/-Jira-000?logo=jira&logoColor=0052CC)
+![RESTful APIs](https://img.shields.io/badge/-RESTful%20APIs-000?style=flat)
 
 ---
 
