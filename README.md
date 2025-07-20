@@ -4,7 +4,7 @@
 
 I'm a **Software Engineer** from the UK with a passion for building things that work well on the web. My focus often gravitates towards crafting efficient and robust backend systems, but I'm equally excited by modern web technologies. 
 
-Right now, I'm really enjoying diving deep into **Rust** and **Axum**, pushing the boundaries of what's possible with high-performance solutions. My background in complex problem-solving from my Physics degree consistently drives my approach to developing scalable and efficient software.
+Right now, I'm mastering advanced Rust patterns and really enjoying diving deep into **Rust** and **Axum**, pushing the boundaries of what's possible with high-performance solutions. My background in complex problem-solving from my Physics degree consistently drives my approach to developing scalable and efficient software.
 
 ---
 
@@ -70,12 +70,6 @@ Here are some of the projects I'm most proud of, they show a bit of my journey a
 * **Deltabox Store**: As mentioned, this is my current major focus and personal business venture, showcasing my approach to full-stack development with Rust/Axum and Vite. While it's currently a private repository, I'm happy to discuss the technical challenges and solutions involved!
 * **[Vinted Discord Notifications](https://github.com/Meatball-Sub-11/Vinted-Discord-Notifications)**: Ever miss a deal? This Discord bot solves that! It's designed to snag real-time notifications for Vinted searches, showcasing my knack for **web scraping**, **Discord bot development**, and setting up reliable **automated tasks**.
 * **[Rust Axum Auth Example](https://github.com/Meatball-Sub-11/rust-axum-auth-example)**: A hands-on Rust and Axum web app where I explore the fundamentals of **user authentication**. It demonstrates **password hashing**, effective **REST API design**, sleek **web UI rendering with Askama templates**, and even a dive into **manual SHA-256 implementation** – great for learning purposes!
-
----
-
-### 🌱 Always Growing
-
-I believe in constant learning and am always on the lookout for new challenges. Currently, I'm focused on mastering advanced Rust patterns and delving into the complexities of distributed systems architecture.
 
 ---
 
