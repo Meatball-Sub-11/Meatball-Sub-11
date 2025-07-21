@@ -2,9 +2,9 @@
 
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=Meatball-Sub-11.Meatball-Sub-11&color=00cf00)
 
-I'm a Software Engineer from the UK with a passion for building things that work well on the web. I'm particularly keen on crafting solid, efficient backend systems, and I love diving into new technologies to bring my ideas to life.
+I'm a **Software Engineer** from the UK with a passion for building things that work well on the web. I'm particularly keen on crafting solid, efficient backend systems, and I love diving into new technologies to bring my ideas to life.
 
-Right now, I'm deep into Rust and Axum, building high-performance web applications. My Physics background really comes in handy for breaking down complex problems and putting together robust, efficient software.
+Right now, I'm deep into **Rust** and **Axum**, building high-performance web applications. My Physics background really comes in handy for breaking down complex problems and putting together robust, efficient software.
 
 ---
 
